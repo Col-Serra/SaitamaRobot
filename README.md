@@ -5,7 +5,7 @@
 # Itadori Bot
 
 <p align="center">
-- x -|│  “	Just some code who is a bot for fun! ”  │| - x -
+- x -|│  “	 I Don't Know How I'll Feel When I'm Dead, But I Don't Want To Regret The Way I Lived.”  │| - x -
 </p>
 
 <p align="center">
